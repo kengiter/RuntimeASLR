@@ -1,0 +1,8 @@
+obj-intel64
+/*.log
+/*.dis
+/tmp*
+policy.str
+taint.policy
+core
+outputs

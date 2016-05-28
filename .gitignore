@@ -1,0 +1,12 @@
+
+*.aux
+
+*.bbl
+
+*.blg
+
+*.log
+
+paper/.texpadtmp/p.out
+
+paper/.texpadtmp/p.synctex.gz
